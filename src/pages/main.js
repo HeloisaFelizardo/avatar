@@ -1,7 +1,7 @@
 import '../styles/styles.css';
 import javascriptLogo from '../img/javascript.svg';
 import viteLogo from '/vite.svg';
-import { setupCounter } from '../components/counter.js';
+import { setupCounter } from '../functions/counter.js';
 
 document.querySelector('#app').innerHTML = `
   <div>
